@@ -6085,4 +6085,12 @@
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
   }
+,
+  {
+    "name": "Caelestia",
+    "author": "alliseeislight",
+    "repo": "alliseeislight/obsidian-caelestia",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  }
 ]
